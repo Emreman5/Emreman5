@@ -8,7 +8,7 @@
 
 
 - 🌱 I’m currently learning C# and JavaScript
-- 🥅 2021 Goals: Learning more new things!
+- 🥅 2022 Goals: Learning more new things!
 - ⚡ Fun fact: I love to play bass
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Emreman5&show_icons=true&theme=radical"> 
 <h2 align ="left">
